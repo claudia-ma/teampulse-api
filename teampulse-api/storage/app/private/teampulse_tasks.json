@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Revisar nóminas",
+        "status": "pending",
+        "assignee": "Claudia",
+        "due": "2026-01-31"
+    },
+    {
+        "id": 2,
+        "title": "Actualizar horarios",
+        "status": "pending",
+        "assignee": "Admin",
+        "due": "2026-01-25"
+    },
+    {
+        "id": 3,
+        "title": "Preparar reunión semanal",
+        "status": "pending",
+        "assignee": "Admin",
+        "due": "2026-02-02"
+    }
+]
